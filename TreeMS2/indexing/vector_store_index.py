@@ -211,9 +211,9 @@ class VectorStoreIndex:
                     logger.warning(
                         "No GPU found, using CPU (two-level clustering) instead for training."
                     )
-                    self._train_cpu_2level()
+                    self._train_cpu()
             else:
-                self._train_cpu_2level()
+                self._train_cpu()
 
     def add(self, batch_size: int):
         """
