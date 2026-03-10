@@ -41,7 +41,7 @@ correctly installed.
 Clone the repository:
 
 ```bash
-git clone https://github.com/MichelDierckx/TreeMS2.git
+git clone https://github.com/bittremieuxlab/TreeMS2.git
 cd TreeMS2
 ```
 
