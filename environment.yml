@@ -14,14 +14,14 @@ dependencies:
   - conda-forge::configargparse
   - numba
   - conda-forge::tqdm
-  - conda-forge::lancedb
-  - pandas==2.2.3
-  - joblib==1.4.2
-  - scipy==1.15.2
+  - conda-forge::pylance=0.24.0
+  - pandas=2.2.3
+  - joblib=1.4.2
+  - scipy=1.15.2
   - anaconda::scikit-learn
   - conda-forge::matplotlib
   - bioconda::pyteomics
-  - bioconda::spectrum_utils==0.4.2
+  - bioconda::spectrum_utils=0.4.2
   - faiss-gpu-cuvs=1.10.0
   - libnvjitlink
   - conda-forge::psutil
