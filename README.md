@@ -394,6 +394,10 @@ To rerun an analysis:
 The resulting distance matrices can then be compared with the distance matrices provided in the `data/` directory on
 Zenodo. Run times for the full datasets range from about 2 to 13 hours (see Supplementary Table 1 in the manuscript).
 
+The scripts used to produce the figures, tables and statistics in the manuscript from these distance matrices are
+available in a separate repository:
+[TreeMS2-analysis-scripts](https://github.com/MichelDierckx/TreeMS2-analysis-scripts).
+
 ## Considerations and known issues
 
 ### Interpreting the results
